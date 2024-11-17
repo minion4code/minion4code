@@ -1,12 +1,13 @@
 ## Software is My Life 👋!
 
 Welcome to my page!
-I'm a Senior Frontend | Mobile App Developer
+I'm a Senior Software Developer
 
 Tech stacks I am using mostly are
 - Frontend : React.js, Angular, Vue<br/>
-- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift
+- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C
 - Backend: Node, PHP, Python, Java, .NET, Ruby
+- CMS: Shopify, WordPress
 
 
 <br/>
@@ -51,12 +52,14 @@ Tech stacks I am using mostly are
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white"></a>
+    <a href="#"><img alt="Objective-C" src="https://img.shields.io/badge/Objective--C-%233A95E3.svg?logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?&logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
 
