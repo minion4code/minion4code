@@ -4,10 +4,9 @@ Welcome to my page!
 I'm a Senior Software Developer
 
 Tech stacks I am using mostly are
-- Frontend : React.js, Angular, Vue<br/>
-- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C
-- Backend: Node, PHP, Python, Java, .NET, Ruby
-- CMS: Shopify, WordPress
+- Frontend : React.js, Angular, Vue
+- Mobile App Development: React Native, Kotlin, Swift
+- Backend: Node, PHP, Python, Java, .NET (.NET Core, ASP.NET Core, Entity Framework)
 
 
 <br/>
