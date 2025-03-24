@@ -36,9 +36,8 @@ Tech stacks I am using mostly are
     <a href="https://github.com/search?q=user%3ACoala1010+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACoala1010+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACoala1010+language%3Anodejs"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACoala1010+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACoala1010+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACoala1010+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ACoala1010+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>    
+    <a href="#"><img alt="Razor" src="https://img.shields.io/badge/Razor-512BD4.svg?logo=razor&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACoala1010+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACoala1010+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACoala1010+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
@@ -58,8 +57,10 @@ Tech stacks I am using mostly are
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-512BD4.svg?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-5C2D91.svg?logo=dotnet&logoColor=white"></a>
+    <a href="#"><img alt="Blazor" src="https://img.shields.io/badge/Blazor-9446FF.svg?logo=blazor&logoColor=white"></a>
+    <a href="#"><img alt="Entity Framework Core" src="https://img.shields.io/badge/EF_Core-6E4B8E.svg?logo=dotnet&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
 
@@ -72,7 +73,7 @@ Tech stacks I am using mostly are
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Azure SQL" src="https://img.shields.io/badge/Azure_SQL-0078D4.svg?logo=microsoftsqlserver&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
